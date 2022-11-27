@@ -1,0 +1,19 @@
+body {
+  background: rgb(41, 50, 163);
+  background: linear-gradient(
+    0deg,
+    rgba(41, 50, 163, 1) 1%,
+    rgba(115, 159, 194, 0.9948179955575981) 45%,
+    rgba(6, 8, 135, 0.9948179955575981) 70%
+  );
+  height: 100vh;
+}
+
+nav {
+  margin-top: 30px;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  box-shadow: 3px 5px rgb(19, 18, 18);
+  border: 0.03cm solid black;
+  background-color: #3a3939;
+}
